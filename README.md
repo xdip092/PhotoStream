@@ -1,0 +1,2 @@
+# PhotoStream
+only for photo
